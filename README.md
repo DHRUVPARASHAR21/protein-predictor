@@ -30,7 +30,7 @@ I used these things to create the app.
 
 Python: This was the main language I used. It's the foundation of the app.
 
-Streamlit: This is a great Python library. It let me build the user interface with Python code. I didn't need to use HTML or CSS.
+Streamlit: This is a great Python library. It let me build the user interface with Python code saved me from using HTML or CSS.
 
 Git & GitHub: I used these to manage my code. Git tracks every change I make. GitHub stores the project online.
 
