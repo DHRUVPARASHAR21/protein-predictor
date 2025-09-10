@@ -6,10 +6,15 @@ Here: https://protein-predictor-mcpxu98vsytzjamjlvxspb.streamlit.app/
 This is a web app I built. It predicts and shows the 3D structure of a protein. You just type in a sequence. I created this to be a quick tool. You don't need to install anything.
 
 This project also covers the software engineering process through: 
+
 -local development, 
+
 -version control with Git, 
+
 -code hosting on GitHub, 
+
 -dependency management with requirements.txt, 
+
 -containerized deployment with Streamlit Cloud.
 
 How It Works
